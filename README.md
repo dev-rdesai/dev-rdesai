@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="left"> Hi there 👋 </h1>
 
 <h3>About Me</h3>
-I'm Raval, a passionate software engineer with 11+ years of experience in developing innovative and efficient software solutions.
-Constantly seeking opportunities to learn and grow in the field.
+I am passionate about learning latest technology trends and continuously improving skills which helps in delivering high-quality software solutions that meet business needs and exceed user expectations.
+With 11+ years of experience , I have demonstrated a strong ability to design, develop, and deploy high-quality, scalable software solutions.
 
-<img src="https://www.kindpng.com/picc/m/156-1566510_pubg-mobile-outfits-png-transparent-png.png" alt="Pubg Mobile Outfits Png, Transparent Png@kindpng.com" height="300" width="300">
+<img align="left" src="https://www.kindpng.com/picc/m/156-1566510_pubg-mobile-outfits-png-transparent-png.png" alt="Pubg Mobile Outfits Png, Transparent Png@kindpng.com" height="300" width="300">
 
 <h3>Things I code with</h3>
 <p>
@@ -28,9 +28,14 @@ Constantly seeking opportunities to learn and grow in the field.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
+  <img alt="Microsoft Dynamics" src="https://img.shields.io/badge/CRM-Dynamics-17202C?style=flat-square&logo=CRM-Dynamics&logoColor=white" />
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3>Contact</h3>
 
 - Email: ravalnath.nl@gmail.com

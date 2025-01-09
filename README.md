@@ -1,10 +1,8 @@
-<h1 align="left"> Hi there 👋 </h1>
+<h1 align="left"> Hello there 👋 </h1>
 
 <h3>About Me</h3>
-I am passionate about learning latest technology trends and continuously improving skills which helps in delivering high-quality software solutions that meet business needs and exceed user expectations.
-With 11+ years of experience , I have demonstrated a strong ability to design, develop, and deploy high-quality, scalable software solutions.
-
-<img align="left" src="https://www.kindpng.com/picc/m/156-1566510_pubg-mobile-outfits-png-transparent-png.png" alt="Pubg Mobile Outfits Png, Transparent Png@kindpng.com" height="300" width="300">
+I am passionate about learning new technology trends and continuously improving skills which helps in delivering high-quality software solutions that meet business needs and exceed user expectations.
+With 12+ years of experience , I have demonstrated a strong ability to design, develop, and deploy high-quality, scalable software solutions.
 
 <h3>Things I code with</h3>
 <p>
@@ -32,19 +30,12 @@ With 11+ years of experience , I have demonstrated a strong ability to design, d
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h3>Contact</h3>
 
-- Email: ravalnath.nl@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ravalnath-desai/
 
 <h3>Interests</h3>
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Javascript, TypeScript.
-- 🌱 &nbsp; I’m currently learning AWS.
-- 👾 &nbsp; Fun fact: I love to Trek's, sport and sometime travel 
+- 🤖 nbsp; learning Kubernetes , Azure and machine learning.
+- ⚽️ &nbsp; Trek's, football ,Travel , Cycling , Guitar 
